@@ -20,6 +20,24 @@ $ docker run -it --rm -p=0.0.0.0:9222:9222 --name=chrome-pyselenium -v /tmp/chro
 
 docker exec -it chrome-pyselenium bash
 
+## Ready tools and packages
+
+- python v2
+- python v3
+- pip v2
+- pip v3
+- curl
+- vim
+- libnss3
+- libgconf
+- libfontconfig1
+- libxml2
+- nltk
+- selenium
+- BeautifulSoup4
+- lxml
+- html5lib
+
 ## More
 
 **What is Selenium?**
